@@ -7,5 +7,4 @@ Requirements
 3. The possible English words could be fetched from, for example,  https://raw.githubusercontent.com/lad/words/master/words which is a copy of /usr/share/dict/words.
 
 How to test:
-1. git clone git clone https://github.com/username/xyz.git
-2. cd xyz && ./runme.sh
+cd xyz && ./runme.sh
